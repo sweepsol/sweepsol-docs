@@ -12,8 +12,3 @@
 
 * [Solana Account](solana-account.md)
 * [ATA Account](ata-account.md)
-
-## Basics
-
-* [Markdown](basics/markdown.md)
-* [Interactive blocks](basics/interactive-blocks.md)
